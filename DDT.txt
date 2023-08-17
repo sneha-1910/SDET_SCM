@@ -1,0 +1,50 @@
+data driven testing
+
+Reading the data from external resources(like database,(.jscon and .csv and.xlsx and.xml) ,json etc) test the data is called as data driver testing. 
+
+comman data: The data is common to all testscript (ex:browser, username ,password and appln url)-it is stored in property file(.properties) bcz it is light weight
+test data:the data which is specific to test script with respective module---we are using excel to store the testdata.
+
+
+why
+
+As automation rule says that we should not hardcode the data 
+ we are following agile ,so the can change the req at any stage
+changing/modifying the data is monotonous job ND maintainance is less
+
+
+jar files 
+to store common data and test data 
+
+excel--apache poi
+.properties--- java
+.jscn---jackson
+.xml---testng
+JDBC ---- JDBC API
+coomand prompt----MAVEN (plugin)
+
+
+in mysql-----we cannot delete the previous data(disadvantage)
+
+
+commands 
+
+show database----database present in system
+
+create database databasename ------create database sdet50
+
+use databasename---it is enable the database
+
+create table-----create table tablename
+
+desc tablname-----//it is display in the from of table.----to describe the table.
+
+
+
+
+
+
+
+
+
+

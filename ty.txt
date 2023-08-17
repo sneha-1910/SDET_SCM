@@ -1,0 +1,2 @@
+login to scm as manufacturer, click on Add products enter all the details and click on add product button 
+and click on manage stock and enter the quantity and click on update stock and click on product and check product is displayed and logout as a manufacturer.

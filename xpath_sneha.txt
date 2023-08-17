@@ -1,0 +1,4 @@
+//div[text()='Bank Offer']/ancestor::div[@class='_2ZdXDB']/ancestor::div[@class='_2B099V']//div[@class='_2WkVRV']-----name of the phones which is having bank offer.
+
+
+//div[text()='Bank Offer']/ancestor::div[@class='_2ZdXDB']/ancestor::div[@class='_2B099V']//div[@class='_25b18c']/div[@class='_30jeq3']----price

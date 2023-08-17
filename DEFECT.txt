@@ -1,0 +1,10 @@
+1.click on confirm order it will going to black pAGE.
+2.edit profile ----it is accepting old password and new password both are same
+3.edit profile---in email id field it accepting all kinds of data 
+4.manage stock----without any changes done in the quantity but still the stock getting updated.
+5.manage unit-----select all the units , click on add unit and add unit page displayed.
+6.manage Category-----select all the category , click on add category and add category page displayed.
+7.manage stock----quantity will accept decimal values and alphabets and special characters.
+8.edit profile---phone nor text fiela accepting 0000000000
+9.edit profile----change password accepting space
+10.

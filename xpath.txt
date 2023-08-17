@@ -1,0 +1,9 @@
+//h4[text()='ODI Team Rankings']/ancestor::div[@class='rankings-block__banner']/following-sibling::table//tbody/tr[*]/td[contains(text(),'England')]
+
+
+//div[@class='rankings-block__container full rankings-table']
+
+
+if we are seraching for tean ranking<--womens--<rankings(it will not come directly is is showing matches with 3 in that 1 is for desktop menu
+      and  2 is mobile menu so first we need to write desktop menu path later we can write sub path)
+//div[@class='main-navigation__header u-hide-desktop']/descendant::a[@href='/rankings/womens/team-rankings']
