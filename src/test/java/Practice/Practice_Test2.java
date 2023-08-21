@@ -16,4 +16,10 @@ public class Practice_Test2 {
 		System.out.println("area");
 	}
 	
+	@Test
+	public void rectangle()
+	{
+		System.out.println("--rectangle--");
+	}
+	
 }
